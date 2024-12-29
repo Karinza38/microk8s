@@ -1,4 +1,4 @@
-<img src="docs/images/MicroK8s-logo-RGB-2022.png" width="400px;" />
+ <img src="docs/images/MicroK8s-logo-RGB-2022.png" width="400px;" />
 
 [![](https://github.com/canonical/microk8s/actions/workflows/build-snap.yml/badge.svg)](https://github.com/canonical/microk8s/actions/workflows/build-snap.yml)
 [![](https://snapcraft.io/microk8s/badge.svg)](https://snapcraft.io/microk8s)
